@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Manrope:wght@400;500;600;700&display=swap");
+
+:root {
+  --cms-canvas: #fff8f1;
+  --cms-ink: #006b4f;
+  --cms-ink-soft: #0e5e8f;
+  --cms-muted: #5f7673;
+  --cms-accent: #117c79;
+  --cms-accent-dark: #ef3b6a;
+  --cms-paper: #ffffff;
+  --cms-border: #d7ddd8;
+}
+
+body {
+  background: var(--cms-canvas) !important;
+  color: var(--cms-ink);
+  font-family: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+#nc-root {
+  font-family: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+#nc-root h1,
+#nc-root h2,
+#nc-root h3 {
+  color: var(--cms-ink);
+  font-family: "Fraunces", "Times New Roman", serif;
+  letter-spacing: -0.01em;
+}
+
+#nc-root a {
+  color: var(--cms-accent-dark);
+}
+
+#nc-root input,
+#nc-root textarea,
+#nc-root select {
+  border-radius: 12px;
+  border-color: var(--cms-border) !important;
+  background: var(--cms-paper);
+  font-size: 16px;
+}
+
+#nc-root button {
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+#nc-root label {
+  color: var(--cms-ink);
+  font-weight: 600;
+}
+
+#nc-root .nc-appHeader {
+  background: var(--cms-paper);
+  border-bottom: 1px solid var(--cms-border);
+}

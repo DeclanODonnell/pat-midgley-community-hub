@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "eyebrow": "Partners",
+    "title": "Working together for Wybourn",
+    "paragraph_1": "The hub works with trusted local organisations to deliver activities, support, advice, and opportunities for local residents.",
+    "paragraph_2": "If your organisation would like to run a session, host an event, or explore partnership working, email the hub and we will be happy to talk.",
+    "card_tag": "Partnerships",
+    "card_title": "Community-led delivery",
+    "card_text": "We work with partners who help us create welcoming spaces, practical support, and opportunities for people of all ages."
+  },
+  "partners": [
+    {
+      "tag": "Housing & Community",
+      "title": "Great Places Housing Group",
+      "description": "Great Places helped bring the Pat Midgley Community Hub to life and continues to support activity, services, and opportunities in Wybourn."
+    },
+    {
+      "tag": "Advice & Support",
+      "title": "Manor & Castle Development Trust",
+      "description": "From digital support to advice sessions and breakfast drop-ins, Manor & Castle Development Trust helps residents access practical day-to-day support."
+    },
+    {
+      "tag": "Children & Young People",
+      "title": "MASKK",
+      "description": "MASKK helps deliver youth activities and safe spaces for children and young people to connect, play, and build confidence."
+    },
+    {
+      "tag": "Friendly Spaces",
+      "title": "Chatty Cafe Scheme",
+      "description": "Chatty Cafe sessions help create warm, welcoming opportunities for conversation, connection, and community each week."
+    }
+  ],
+  "callout": {
+    "title": "Interested in partnering with the hub?",
+    "text": "Email pmcommunityhub@outlook.com with your idea, event, or service and we will get back to you."
+  }
+}

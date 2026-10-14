@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "eyebrow": "Resources",
+    "title": "Support, advice, and useful local contacts",
+    "paragraph_1": "The hub is a friendly starting point for practical help, local opportunities, and community information.",
+    "paragraph_2": "If you are not sure where to begin, email the hub and we will help point you in the right direction.",
+    "card_tag": "Local Support",
+    "card_title": "Help close to home",
+    "card_text": "From digital support and family sessions to employment advice and community activities, the hub connects residents with support that matters."
+  },
+  "cards": [
+    {
+      "tag": "Work & Skills",
+      "title": "Wybourn Works",
+      "description": "Support with confidence building, skills, and next steps into work.",
+      "mini_text": "Email: wybournworks@greatplaces.org.uk",
+      "link_text": "",
+      "link_url": ""
+    },
+    {
+      "tag": "Digital Help",
+      "title": "Digital Skills Support",
+      "description": "Weekly practical help using devices and completing online forms, delivered with Manor & Castle Development Trust.",
+      "mini_text": "",
+      "link_text": "See weekly times",
+      "link_url": "whats-on.html"
+    },
+    {
+      "tag": "Families",
+      "title": "Best Start sessions",
+      "description": "Parent and toddler activities, creative sessions, and family support during the week.",
+      "mini_text": "",
+      "link_text": "See weekly times",
+      "link_url": "whats-on.html"
+    },
+    {
+      "tag": "General Enquiries",
+      "title": "Need pointing in the right direction?",
+      "description": "Email pmcommunityhub@outlook.com and the hub team can help connect you with the right service or session.",
+      "mini_text": "",
+      "link_text": "",
+      "link_url": ""
+    }
+  ],
+  "employment": {
+    "eyebrow": "Employment Support",
+    "title": "Wybourn Works at the hub",
+    "paragraph_1": "Wybourn Works offers local support around confidence, skills, and employability. If you want to talk through your next step, this is a good place to start.",
+    "paragraph_2": "You can speak with the team at the hub or email wybournworks@greatplaces.org.uk for more information.",
+    "image": "images/activity-space.jpg"
+  }
+}

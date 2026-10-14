@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "eyebrow": "Room Hire",
+    "title": "Spaces for meetings, events, and celebrations",
+    "paragraph_1": "Pat Midgley Community Hub can offer room hire for a variety of events including parties, training, workshops and meetings. Public Wi-fi is available in all rooms and are fully accessible.",
+    "paragraph_2": "For further information or to book a room please email: pmcommunityhub@outlook.com or call 07964 329679.",
+    "image_1": "images/cafe-area.jpg",
+    "image_2": "images/community-events.jpg"
+  },
+  "pricing": [
+    {
+      "title": "Organisation rates (meetings, training etc)",
+      "rates": [
+        { "text": "Full centre - £25 per hour" },
+        { "text": "Cafe area - £15 per hour" },
+        { "text": "Main hall and meeting room included - £15 per hour" }
+      ]
+    },
+    {
+      "title": "Private resident rates (parties & events)",
+      "rates": [
+        { "text": "Full centre - £15 per hour" },
+        { "text": "Cafe area - £10 per hour" },
+        { "text": "Main hall - £10" }
+      ]
+    }
+  ]
+}

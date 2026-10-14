@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "eyebrow": "Contact Us",
+    "title": "Contact us",
+    "paragraph": "If you need to ask a question, check a session, talk about room hire, or get pointed to the right service, get in touch with the hub and we will help.",
+    "address": "331 Manor Oaks Road, Wybourn, Sheffield, S2 5EE",
+    "email": "info@PatMidgleyFoundation.com",
+    "phone": "0114 349 1481"
+  },
+  "intro": {
+    "eyebrow": "How To Reach Us",
+    "title": "Choose the right contact route",
+    "text": "Use the main hub email for general enquiries, activities, room hire, and community events. Use the Wybourn Works email for employability support and related questions."
+  },
+  "routes": [
+    {
+      "eyebrow": "General Enquiries",
+      "title": "Pat Midgley Community Hub",
+      "description": "For general enquiries, room hire, activities, and day-to-day hub questions.",
+      "email": "pmcommunityhub@outlook.com",
+      "phone": "0114 349 1481",
+      "button_text": "Email the hub"
+    },
+    {
+      "eyebrow": "Employment Support",
+      "title": "Wybourn Works",
+      "description": "For confidence building, skills, employability support, and Wybourn Works enquiries.",
+      "email": "wybournworks@greatplaces.org.uk",
+      "phone": "",
+      "button_text": "Email Wybourn Works"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "one_off_events": [
+    {
+      "date": "2026-06-27",
+      "title": "Armed Forces Day at the Hub",
+      "time": "12pm -3pm",
+      "description": "Join us as we mark Armed Forces Day with the local community. The event will be spread over the hub and Wybourn Community Primary School yard. Follow our Facebook page for the latest timings, activities, and event details."
+    }
+  ],
+  "weekly_schedule": [
+    {
+      "day": "Monday",
+      "title": "Welcome Place Chatty Cafe",
+      "time": "11am - 1pm",
+      "description": "Aimed at providing a welcoming environment for anyone who needs to connect with others. Our trained volunteer Rachel is here to say hello and offer a cuppa for anyone who would like to attend. Provided by Chatty Cafe. No need to book, just drop in."
+    },
+    {
+      "day": "Tuesday",
+      "title": "Golden Oldies Coffee Morning",
+      "time": "10am - 12pm",
+      "description": "The group is open to everyone over 50 to come along for a breakfast snack, hot drinks and a chat. £2 per person."
+    },
+    {
+      "day": "Wednesday",
+      "title": "Parent & Toddler Group",
+      "time": "9.00am - 11.00am and 12.00pm - 2.00pm",
+      "description": "£2 per adult and child, 50p for every additional child. Includes snack. Bring your under 5s along to play and meet other parents and carers of young children from your area. Provided by Best Start. To book a place, please contact Marie on 07495 965 774 or mariegill@manorandcastle.org.uk."
+    },
+    {
+      "day": "Wednesday",
+      "title": "Parent Drop-In / Adult Creative",
+      "time": "9.00am - 11.00am",
+      "description": "Parenting advice and support, plus arts and crafts. Provided by Best Start. To book a place, contact Marie on 07495 965 774 or mariegill@manorandcastle.org.uk."
+    },
+    {
+      "day": "Thursday",
+      "title": "Corner House Crafts Group",
+      "time": "10am - 2pm",
+      "description": "Women's craft group. Bring your crafts, have a chat, and enjoy a cuppa. To book a place, contact the Community Hub for more details on 07964 329 679."
+    },
+    {
+      "day": "Thursday",
+      "title": "Wybourn Kids' Club",
+      "time": "4.30pm - 5.45pm (term time only)",
+      "description": "A place to play, enjoy crafts, and make friends. Children need to be brought and collected by an adult. Ages Y1 - Y3. For more info, email kiela@maskk.org.uk."
+    },
+    {
+      "day": "Thursday",
+      "title": "Wybourn Young People's Hang Out",
+      "time": "6.00pm - 7.30pm",
+      "description": "Games, snacks, advice, and more for school ages Y4 - Y8. No need to book, just drop in. For more information, email kiela@maskk.org.uk."
+    },
+    {
+      "day": "Friday",
+      "title": "Digital Skills Support",
+      "time": "9.30am - 12.30pm",
+      "description": "Drop in or book a place. Practical digital support if you need help using a device or completing online forms. Provided by Manor and Castle Development Trust."
+    },
+    {
+      "day": "Friday",
+      "title": "Breakfast Drop-In",
+      "time": "9.00am - 11.00am",
+      "description": "No need to book, just drop in. Free light breakfast, including tea and coffee, plus cost of living support and general advice. Provided by Manor and Castle Development Trust."
+    }
+  ]
+}
